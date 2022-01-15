@@ -1,0 +1,250 @@
+Date: 15/1/2022
+Time: 22:15
+Group ID: 3 Of Us
+Message: 22:38:31
+--------------------
+Date: 15/1/2022
+Time: 22:15
+Group ID: 3 Of Us
+Message: 22:38:31
+--------------------
+Date: 15/1/2022
+Time: 22:15
+Group ID: 3 Of Us
+Message: 22:38:31
+--------------------
+Date: 15/1/2022
+Time: 22:18
+Group ID: 3 Of Us
+Message: 22:38:46
+--------------------
+Date: 15/1/2022
+Time: 22:19
+Phone Number: +6594565177
+Message: 22:38:46
+--------------------
+Date: 15/1/2022
+Time: 22:20
+Phone Number: +6594565177
+Message: 22:37:49
+--------------------
+Date: 15/1/2022
+Time: 22:23
+Phone Number: +6594565177
+Message: 22:39:39
+--------------------
+Date: 15/1/2022
+Time: 22:24
+Phone Number: +6594565177
+Message: 22:39:39
+--------------------
+Date: 15/1/2022
+Time: 22:25
+Phone Number: +6594565177
+Message: 22:40:30
+--------------------
+Date: 15/1/2022
+Time: 22:27
+Phone Number: +6594565177
+Message: 22:40:08
+--------------------
+Date: 15/1/2022
+Time: 22:28
+Phone Number: +6594565177
+Message: 22:40:54
+--------------------
+Date: 15/1/2022
+Time: 22:28
+Phone Number: +6594565177
+Message: 23:08:05
+--------------------
+Date: 15/1/2022
+Time: 22:29
+Phone Number: +6594565177
+Message: 22:40:54
+--------------------
+Date: 15/1/2022
+Time: 22:29
+Phone Number: +6594565177
+Message: 23:08:05
+--------------------
+Date: 15/1/2022
+Time: 22:29
+Phone Number: +6594565177
+Message: 22:40:54
+--------------------
+Date: 15/1/2022
+Time: 22:29
+Phone Number: +6594565177
+Message: 23:08:05
+--------------------
+Date: 15/1/2022
+Time: 22:30
+Phone Number: +6594565177
+Message: 22:41:34
+--------------------
+Date: 15/1/2022
+Time: 22:30
+Phone Number: +6594565177
+Message: 23:08:07
+--------------------
+Date: 15/1/2022
+Time: 22:31
+Phone Number: +6594565177
+Message: 22:41:16
+--------------------
+Date: 15/1/2022
+Time: 22:31
+Phone Number: +6594565177
+Message: 23:08:12
+--------------------
+Date: 15/1/2022
+Time: 22:35
+Group ID: KUgPmXJoRJB82bFry2p7lH
+Message: Bus 173 will arrive at 22:40:48
+--------------------
+Date: 15/1/2022
+Time: 22:36
+Group ID: KUgPmXJoRJB82bFry2p7lH
+Message: Bus 173 will arrive at 23:08:56
+--------------------
+Date: 15/1/2022
+Time: 22:36
+Group ID: KUgPmXJoRJB82bFry2p7lH
+Message: Bus 173 will arrive at 22:40:18
+--------------------
+Date: 15/1/2022
+Time: 22:37
+Group ID: KUgPmXJoRJB82bFry2p7lH
+Message: Bus 173 will arrive at 23:08:42
+--------------------
+Date: 15/1/2022
+Time: 22:38
+Phone Number: +6594565177
+Message: Bus 173 will arrive at 22:40:33
+--------------------
+Date: 15/1/2022
+Time: 22:38
+Phone Number: +6594565177
+Message: Bus 173 will arrive at 23:08:25
+--------------------
+Date: 15/1/2022
+Time: 22:42
+Group ID: KUgPmXJoRJB82bFry2p7lH
+Message: Bus 173 will arrive at 22:40:50
+--------------------
+Date: 15/1/2022
+Time: 22:42
+Group ID: KUgPmXJoRJB82bFry2p7lH
+Message: Bus 173 will arrive at 23:08:35
+--------------------
+Date: 15/1/2022
+Time: 22:42
+Group ID: KUgPmXJoRJB82bFry2p7lH
+Message: Bus 173 will arrive at 23:21:17
+--------------------
+Date: 15/1/2022
+Time: 22:43
+Phone Number: +6594565177
+Message: Bus 173 will arrive at 23:08:52
+--------------------
+Date: 15/1/2022
+Time: 22:43
+Phone Number: +6594565177
+Message: Bus 173 will arrive at 23:21:23
+--------------------
+Date: 15/1/2022
+Time: 22:51
+Phone Number: +6594565177
+Message: Bus 173 will arrive at 0:15:51.813287
+--------------------
+Date: 15/1/2022
+Time: 22:51
+Phone Number: +6594565177
+Message: Bus 173 will arrive at 0:29:17.141260
+--------------------
+Date: 15/1/2022
+Time: 22:55
+Phone Number: +6594565177
+Message: Bus 173 will arrive in 12 and 35 seconds at 23:07:55
+--------------------
+Date: 15/1/2022
+Time: 22:55
+Phone Number: +6594565177
+Message: Bus 173 will arrive in 24 and 57 seconds at 23:20:25
+--------------------
+Date: 15/1/2022
+Time: 22:57
+Phone Number: +6594565177
+Message: Bus 173 will arrive in 11 and 00 seconds at 23:08:19
+--------------------
+Date: 15/1/2022
+Time: 22:57
+Phone Number: +6594565177
+Message: Bus 173 will arrive in 22 and 33 seconds at 23:19:58
+--------------------
+Date: 15/1/2022
+Time: 22:58
+Phone Number: +6594565177
+Message: Bus 173 will arrive in 10 and 43 seconds at 23:09:15
+--------------------
+Date: 15/1/2022
+Time: 22:59
+Phone Number: +6590452020
+Message: Bus 173 will arrive in 09 and 47 seconds at 23:09:15
+--------------------
+Date: 15/1/2022
+Time: 23:1
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 07 and 50 seconds at 23:09:15
+--------------------
+Date: 15/1/2022
+Time: 23:2
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 07 and 07 seconds at 23:09:15
+--------------------
+Date: 15/1/2022
+Time: 23:2
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 06 and 23 seconds at 23:08:50
+--------------------
+Date: 15/1/2022
+Time: 23:6
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 02 and 51 seconds at 23:09:04
+--------------------
+Date: 15/1/2022
+Time: 23:6
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 02 and 40 seconds at 23:09:04
+--------------------
+Date: 15/1/2022
+Time: 23:7
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 02 and 05 seconds at 23:09:27
+--------------------
+Date: 15/1/2022
+Time: 23:7
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 01 and 46 seconds at 23:09:27
+--------------------
+Date: 15/1/2022
+Time: 23:11
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 07 and 55 seconds at 23:19:33
+--------------------
+Date: 15/1/2022
+Time: 23:12
+Group ID: Fe8IIF34v46DjyMlS1CmlJ
+Message: Bus 173 will arrive in 07 and 09 seconds at 23:19:33
+--------------------
+Date: 15/1/2022
+Time: 23:16
+Phone Number: +6596446274
+Message: Bus 173 will arrive in 02 and 54 seconds at 23:19:33
+--------------------
+Date: 15/1/2022
+Time: 23:17
+Phone Number: +6590452020
+Message: Bus 173 will arrive in 01 and 58 seconds at 23:19:33
+--------------------
