@@ -248,3 +248,98 @@ Time: 23:17
 Phone Number: +6590452020
 Message: Bus 173 will arrive in 01 and 58 seconds at 23:19:33
 --------------------
+Date: 16/1/2022
+Time: 12:15
+Phone Number: +6594565166
+Message: Bus 173 will arrive in 59 and 02 seconds at 12:14:38
+--------------------
+Date: 16/1/2022
+Time: 12:16
+Phone Number: +6594565166
+Message: Bus 173 will arrive in 58 and 22 seconds at 12:14:38
+--------------------
+Date: 16/1/2022
+Time: 12:17
+Phone Number: +6594565166
+Message: Bus 173 will arrive in 13 minutes and 55 seconds at 12:31:17
+--------------------
+Date: 16/1/2022
+Time: 12:20
+Phone Number: +6594565166
+Message: Bus 173 should be arriving soon
+--------------------
+Date: 16/1/2022
+Time: 12:21
+Phone Number: +6594565166
+Message: Bus 173 will arrive in 00 minutes and 50 seconds at 12:22:38
+--------------------
+Date: 16/1/2022
+Time: 12:22
+Phone Number: +6594565166
+Message: Bus 61 will arrive in 00 minutes and 13 seconds at 12:22:38
+--------------------
+Date: 16/1/2022
+Time: 12:25
+Phone Number: +6594565166
+Message: Bus 173 should be arriving soon
+--------------------
+Date: 16/1/2022
+Time: 12:26
+Phone Number: +6594565166
+Message: Bot: Bus 66 should be arriving soon
+--------------------
+Date: 16/1/2022
+Time: 12:28
+Phone Number: +6594565166
+Message: *Bot*: Bus 66 will arrive in 12 minutes and 51 seconds at 12:40:53
+--------------------
+Date: 16/1/2022
+Time: 12:30
+Phone Number: +6594565166
+Message: *Bot*: Bus 66 will arrive in 10 minutes and 48 seconds at 12:40:53
+--------------------
+Date: 16/1/2022
+Time: 12:33
+Phone Number: +6594565166
+Message: Bus *66* will arrive in *07* minutes and *37* seconds at 12:41:12
+--------------------
+Date: 16/1/2022
+Time: 12:45
+Phone Number: +6594565166
+Message: Bus *61* will arrive in *08* minutes and *14* seconds at 12:54:04
+--------------------
+Date: 16/1/2022
+Time: 12:46
+Phone Number: +6594565166
+Message: Bus *61* will arrive in *07* minutes and *35* seconds at 12:54:04
+--------------------
+Date: 16/1/2022
+Time: 12:46
+Phone Number: +6594565166
+Message: Bus *61* will arrive in *07* minutes and *29* seconds at 12:54:04
+--------------------
+Date: 16/1/2022
+Time: 12:46
+Phone Number: +6594565166
+Message: Bus *61* will arrive in *07* minutes and *24* seconds at 12:54:04
+--------------------
+Date: 16/1/2022
+Time: 12:52
+Phone Number: +6594565166
+Message: Bus *61* will arrive in *02* minutes and *14* seconds at 12:54:31
+--------------------
+Date: 16/1/2022
+Time: 12:52
+Phone Number: +6594565166
+Message: Bus *61* will arrive in *01* minutes and *51* seconds at 12:54:31
+--------------------
+Date: 19/1/2022
+Time: 18:35
+Phone Number: +6590452020
+Message: Bus *61* will arrive in *07* minutes and *54* seconds at 18:43:18
+--------------------
+Date: 19/1/2022
+Time: 18:36
+Phone Number: +6590452020
+Message: Bus *61* will arrive in *07* minutes and *43* seconds at 18:44:18
+--------------------
